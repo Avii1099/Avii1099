@@ -14,6 +14,7 @@
 - 📄 Know about my experiences [www.linkedin.com/in/arvind-singh-87251b208](www.linkedin.com/in/arvind-singh-87251b208)
 
 - ⚡ Fun fact **I think I can talk for hours. ;P**
+- <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="arvind-singh-87251b208"><a class="LI-simple-link" href='https://in.linkedin.com/in/arvind-singh-87251b208?trk=profile-badge'>Arvind Singh</a></div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
