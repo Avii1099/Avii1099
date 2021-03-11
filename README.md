@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arvind singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arvind singh" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/arvind-singh-87251b208" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arvind singh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aviirathore1099" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="aviirathore1099" height="30" width="40" /></a>
 </p>
 
