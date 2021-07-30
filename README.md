@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avii1099&show_icons=true&locale=en" alt="avii1099" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avii1099&" alt="avii1099" /></p>
+
+<a href="https://app.daily.dev/Avii1099"><img src="https://api.daily.dev/devcards/3248ce48acd64117a5f10d4b0f599ab3.png?r=z2j" width="400" alt="Arvind Singh's Dev Card"/></a>
