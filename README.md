@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.instagram.com/_python.py_/](https://www.instagram.com/_python.py_/)
 
-- 📫 How to reach me **aviirathore1099@gmail.com**
+- 📫 How to reach me **pythonpy1721@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/arvind-singh-87251b208](www.linkedin.com/in/arvind-singh-87251b208)
 
